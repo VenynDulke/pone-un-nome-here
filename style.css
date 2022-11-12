@@ -1,5 +1,5 @@
 {
-    background:#111111;
+    background:#000000;
 }
 body{
     transition:15s
@@ -20,7 +20,7 @@ a{
     -moz-box-shadow:inset 0px 2px 2px 0px #B00000
 }
 [name=B00000] a{
-     -webkit-box-shadow:inset 0px 2px 2px 0px #ffffff
+     -webkit-box-shadow:inset 0px 2px 2px 0px #000000
 }
 [name=BLA] a{
      box-shadow:inset 0px 2px 2px 0px #2E2E2E
